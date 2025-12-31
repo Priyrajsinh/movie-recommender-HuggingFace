@@ -29,6 +29,7 @@ It focuses on similarity-based recommendations and building an interactive ML-po
 - Python
 - Pandas
 - NumPy
+- Scikit-Learn
 - Streamlit
 - Pickle
 - OMDb API (for movie posters)
